@@ -1,0 +1,1 @@
+%%%% TU IDZIE PA�STWA KOD %%%%readSets;groups = [1 4 6 9; 5 8 10 -1; 2 3 7 -1];test_ovo_groups(tvec, tlab, tstv, tstl, groups, 40);
